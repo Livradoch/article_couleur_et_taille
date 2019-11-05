@@ -1,0 +1,91 @@
+section {
+    display: flex;
+    position: relative;
+}
+
+#cadre_image {
+    border: solid black 1px;
+    height: 300px;
+    width: 300px;
+   
+
+}
+ .imagegreenXL {
+     border: solid black 1px; ;
+     height: 280px;
+     width: 280px;
+     position: absolute;
+ }
+
+ .imagegreenL {
+    border: solid black 1px; ;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+
+.imagegreenM {
+    border: solid black 1px; ;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+/* *******************yellowtaille****************** */
+.imageyellownXL {
+    border: solid black 1px; ;
+    height: 280px;
+    width: 280px;
+    position: absolute;
+}
+
+.imageyellowL {
+   border: solid black 1px; ;
+   height: 200px;
+   width: 200px;
+   position: absolute;
+}
+
+.imageyellowM {
+   border: solid black 1px; ;
+   height: 150px;
+   width: 150px;
+   position: absolute;
+}
+
+
+ #couleurgreen {
+     background: green;
+     height: 100px;
+     width: 100px;
+ }
+ #couleuryellow {
+    background: yellow;
+    height: 100px;
+    width: 100px;
+}
+#couleurpurple {
+    background: purple;
+    height: 100px;
+    width: 100px;
+}
+
+#tailleXL {
+   
+    height: 100px;
+    width: 100px;
+}
+
+#tailleL {
+    height: 100px;
+    width: 100px;
+}
+
+#tailleM {
+    height: 100px;
+    width: 100px;
+}
+#tailleS {
+    height: 100px;
+    width: 100px;
+}
+
