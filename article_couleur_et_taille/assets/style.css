@@ -10,6 +10,7 @@ section {
    
 
 }
+/* *******************greentaille****************** */
  .imagegreenXL {
      border: solid black 1px; ;
      height: 280px;
@@ -31,7 +32,7 @@ section {
     position: absolute;
 }
 /* *******************yellowtaille****************** */
-.imageyellownXL {
+.imageyellowXL {
     border: solid black 1px; ;
     height: 280px;
     width: 280px;
@@ -52,7 +53,30 @@ section {
    position: absolute;
 }
 
+/* *******************purpletaille****************** */
 
+.imagepurpleXL {
+    border: solid black 1px; ;
+    height: 280px;
+    width: 280px;
+    position: absolute;
+}
+
+.imagepurpleL {
+   border: solid black 1px; ;
+   height: 200px;
+   width: 200px;
+   position: absolute;
+}
+
+.imagepurpleM {
+   border: solid black 1px; ;
+   height: 150px;
+   width: 150px;
+   position: absolute;
+}
+
+/* *****************bouton couleur****************** */
  #couleurgreen {
      background: green;
      height: 100px;
@@ -68,7 +92,7 @@ section {
     height: 100px;
     width: 100px;
 }
-
+/* *****************bouton taille****************** */
 #tailleXL {
    
     height: 100px;
